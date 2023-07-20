@@ -17,7 +17,7 @@ this code will help you send line by line from a text file to discord webhook ev
         print(mp)
         webhook = SyncWebhook.from_url("your discord webhook url")
         webhook.send(mp)
-        time.sleep(3)```
+        time.sleep(3)
 free anime images api here > https://www.nekos.fun/apidoc.html <
 
 
