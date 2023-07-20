@@ -4,7 +4,7 @@ this code will help you send line by line from a text file to discord webhook ev
 
 
 if you whant to send a random image api you can change to this
-
+>
 import requests
 import base64
 import time
